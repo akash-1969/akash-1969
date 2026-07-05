@@ -83,25 +83,25 @@ Computer Science undergraduate at **VIT-AP University**, with 1200+ DSA problems
 Privacy-first browser extension that analyzes resumes, ranks opportunities, and identifies skill gaps directly inside job portals.
 **Tech:** JavaScript • Chrome APIs • PDF.js • Matching Engine
 
-### ⭐ [VIT Faculty Ratings Extension](https://github.com/akash-1969/vit-faculty-ratings-extension)
+### ⭐ [VIT Faculty Ratings Extension](https://github.com/akash-1969/vit-faculty-ratings)
 **Faculty ratings directly inside FFCS**
 Injects professor ratings into the registration portal in real time using DOM observation and dynamic rendering.
-**Tech:** JavaScript • MutationObserver • Chrome APIs
+**Tech:** JavaScript • MutationObserver • Chrome APIs & DOM Scraping.
 
 ### 📬 [MailGuard EDU](https://github.com/akash-1969/mailguard-edu)
 **AI assistant for academic inbox overload**
 Identifies critical announcements, prioritizes important emails, and flags suspicious senders.
-**Tech:** Node.js • AI APIs • Workflow Automation
+**Tech:** Node.js • Advanced DOM Manipulation & Mutation Observer  
 
 ### ✋ [AirScroller](https://github.com/akash-1969/airscroller)
 **Control scrolling using hand gestures**
 Computer-vision-powered touchless interaction system using webcam hand tracking.
-**Tech:** Python • OpenCV • MediaPipe
+**Tech:** Python • OpenCV • MediaPipe & PyautoGUI
 
 ### 📚 [Local RAG Knowledge Base](https://github.com/akash-1969/local-rag-knowledge-base)
 **Semantic search over personal documents**
 Fully local RAG pipeline powered by vector search and embeddings.
-**Tech:** Python • Qdrant • Docker • FastAPI
+**Tech:** NodeJs • Qdrant • Docker • RestAPI
 
 ---
 
